@@ -1,0 +1,7 @@
+D:\POC Softwares\RNDVS2017_ConsoleApp\RNDVS2017_ConsoleApp\bin\Debug\RNDVS2017_ConsoleApp.exe.config
+D:\POC Softwares\RNDVS2017_ConsoleApp\RNDVS2017_ConsoleApp\bin\Debug\RNDVS2017_ConsoleApp.exe
+D:\POC Softwares\RNDVS2017_ConsoleApp\RNDVS2017_ConsoleApp\bin\Debug\RNDVS2017_ConsoleApp.pdb
+D:\POC Softwares\RNDVS2017_ConsoleApp\RNDVS2017_ConsoleApp\obj\Debug\RNDVS2017_ConsoleApp.csprojAssemblyReference.cache
+D:\POC Softwares\RNDVS2017_ConsoleApp\RNDVS2017_ConsoleApp\obj\Debug\RNDVS2017_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\POC Softwares\RNDVS2017_ConsoleApp\RNDVS2017_ConsoleApp\obj\Debug\RNDVS2017_ConsoleApp.exe
+D:\POC Softwares\RNDVS2017_ConsoleApp\RNDVS2017_ConsoleApp\obj\Debug\RNDVS2017_ConsoleApp.pdb
